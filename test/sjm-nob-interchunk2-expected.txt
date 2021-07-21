@@ -1,0 +1,10 @@
+[GBhwuqXhOUgQ#0] ^det<SN><@X><pl>{^¾<det><qnt><pl>$}$
+[/GBhwuqXhOUgQ]
+[bb0R_QEuIlso#0] ^nom<SN><@HNOUN><ind><m><sg><nom><unc><impers>{^öalphabet<n><m><sg><3>$}$
+[/bb0R_QEuIlso]
+[df0Eql9hT3SJ#0] ^det<SN><@HNOUN><pl><ill>{^M<det><qnt><pl>$}$
+[/df0Eql9hT3SJ]
+[htBrtzSMPRYO#0] ^nom<SN><@HNOUN><ind><nt><sg><ine><impers>{^tårn<n><nt><sg><3>$}$
+[/htBrtzSMPRYO]
+[t5CyZaJnsPy7#0] ^verb<SV><@X><TD><pers><NC>{^hvitne<vblex><TD>$}$
+[/t5CyZaJnsPy7]

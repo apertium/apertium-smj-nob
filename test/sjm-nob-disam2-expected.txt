@@ -1,0 +1,10 @@
+[GBhwuqXhOUgQ#0] ^¾<num><arab><@X>$
+[/GBhwuqXhOUgQ]
+[bb0R_QEuIlso#0] ^ö<n><abbr><gram_tabbr><pl><nom><@HNOUN>$
+[/bb0R_QEuIlso]
+[df0Eql9hT3SJ#0] ^M<num><rom><sg><ill><err_orth_mt><@HNOUN>$
+[/df0Eql9hT3SJ]
+[htBrtzSMPRYO#0] ^toarnna<n><sg><ine><cltl><@HNOUN>$
+[/htBrtzSMPRYO]
+[t5CyZaJnsPy7#0] ^bejudit<vblex><iv><actio><gen><@X>$
+[/t5CyZaJnsPy7]
