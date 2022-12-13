@@ -66,5 +66,5 @@ NP -> n [$definite=ind]
       prn.pers [$definite=def] { 1 } ;
 
 PP -> NP post { 2 _ 1[definite=def] } ;
-VP -> vblex.tv NP { 1 _ 2[definite=ind] } ;
+VP -> vblex.tv NP { 1(pro_undrop) 1[lemcase=aa] _ 2[definite=ind] } ;
 S -> NP VP { 1 _ 2 } ;
