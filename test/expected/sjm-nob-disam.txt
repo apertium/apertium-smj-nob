@@ -1,0 +1,10 @@
+[GBhwuqXhOUgQ#0] ^¾/¾<num><arab>$
+[/GBhwuqXhOUgQ]
+[bb0R_QEuIlso#0] ^ö/ö<n><abbr><gram_tabbr><pl><nom>/ö<n><abbr><gram_tabbr><sg><nom>/ø<n><abbr><gram_tabbr><pl><nom>/ø<n><abbr><gram_tabbr><sg><nom>$
+[/bb0R_QEuIlso]
+[df0Eql9hT3SJ#0] ^M-ij/M<num><rom><sg><ill><err_orth_mt>$
+[/df0Eql9hT3SJ]
+[htBrtzSMPRYO#0] ^dårnån la/toarnna<n><sg><ine><cltl>$
+[/htBrtzSMPRYO]
+[t5CyZaJnsPy7#0] ^bejudim/*bejudim$
+[/t5CyZaJnsPy7]

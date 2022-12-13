@@ -1,0 +1,98 @@
+[--Jf4vZvr_ye#0] ^Såj/*Såj$ ^goappátjagá/*goappátjagá$ ^libá/*libá$ ^ávon/ávvo<n><sg><ine>$ ^ja/*ja$ ^mannaba/*mannaba$ ^ståhpåj/ståhpe<n><sg><ill>$, ^la/*la$ ^muddo/*muddo$ ^juojddá/*juojddá$ ^bårråt/*bårråt$ ^ja/*ja$ ^vehi/*vehi$ ^tjátjev/*tjátjev$ ^juhkat/*juhkat$^!/!<clb>$
+[/--Jf4vZvr_ye]
+[0_4JAoG6L__L#0] ^Marit/*Marit$ ^tjajmmá/*tjajmmá$ ^ja/*ja$ ^javllá/*javllá$: "^Gávnniv/*Gávnniv$ ^duv/*duv$^!/!<clb>$".
+[/0_4JAoG6L__L]
+[0zgkcjgRm7pk#0] ^Vuojná/vuojnnet<vblex><tv><indic><pres><p2><sg>$ ^girjev/girjje<n><sg><acc>$.
+[/0zgkcjgRm7pk]
+[1RrnT9EuJHGn#0] ^Marit/*Marit$ ^gæhttjá/*gæhttjá$ ^iednes/ieddne<n><sg><acc><px3sg>/ieddne<n><sg><ela>/ieddne<n><sg><gen><px3sg>$ ^glása/glássa<n><pl><nom>/glássa<n><sg><gen>$ ^duogen/*duogen$, ^ieddnes/ieddne<n><sg><nom><px3sg>$ ^tjajmmá/*tjajmmá$.
+[/1RrnT9EuJHGn]
+[23xEDFbmNagz#0] ^Ij/*Ij$ ^la/*la$ ^lådde/lådde<n><sg><nom>$ ^ij/*ij$ ^makkirak/*makkirak$ ^ietjá/*ietjá$ ^judos/*judos$.
+[/23xEDFbmNagz]
+[3gsPqKKORKL5#0] ^Vuojnnebihtit/vuojnnet<vblex><tv><indic><pres><p2><pl>$ ^girjev/girjje<n><sg><acc>$.
+[/3gsPqKKORKL5]
+[3j8W86jVUsTv#0] ^De/*De$ ^sån/*sån$ ^vuojnná/vuojnnet<vblex><tv><indic><pres><p3><sg>$ ^unna/unne<adj><attr>$ ^giedatjav/giehta<ex_n><der_dimin><n><sg><acc>$ ^aj/*aj$ ^ja/*ja$ ^gå/*gå$ ^sån/*sån$ ^lagábuj/*lagábuj$ ^boahtá/*boahtá$, ^de/*de$ ^sån/*sån$ ^vuojnná/vuojnnet<vblex><tv><indic><pres><p3><sg>$ ^suv/*suv$ ^oajvev/oajvve<n><sg><acc>$ ^aj/*aj$^!/!<clb>$
+[/3j8W86jVUsTv]
+[4Y-4NSaqg2lP#0] ^De/*De$ ^sån/*sån$ ^gullá/*gullá$ ^jienav/jiedna<n><sg><acc>$, ^dat/*dat$ ^boahtá/*boahtá$ ^stuora/*stuora$ ^boares/boares<adj><attr>/boares<adj><sg><nom>$ ^muora/muorra<n><pl><nom>/muorra<n><sg><gen>$ ^duogen/*duogen$.
+[/4Y-4NSaqg2lP]
+[4Y-bseVjsUxi#0] ^Duommá/*Duommá$ ^ja/*ja$ ^Marit/*Marit$ ^lijkkuba/*lijkkuba$ ^ståhkat/ståhkat<vblex><iv><inf>/ståhka<n><sg><nom><px2sg>$, ^såj/*såj$ ^agev/ahke<n><sg><acc>$ ^ståhkaba/*ståhkaba$ ^aktan/*aktan$ ^gárden/gárdde<n><sg><ine>$ ^stuora/*stuora$ ^ståbe/ståhpe<n><pl><nom>/ståhpe<n><sg><gen>$ ^ålggolin/*ålggolin$.
+[/4Y-bseVjsUxi]
+[5CZh_0gPiKjg#0] ^Sån/*Sån$ ^gatját/*gatját$ ^bednagis/bena<n><sg><acc><px3sg>/bena<n><sg><ela>/bena<n><sg><gen><px3sg>/bena<n><sg><nom><px3sg>$: "^Vuojnni/vuojnnet<vblex><tv><indic><pres><p3><pl>/vuojnnet<vblex><tv><indic><pret><p2><sg>$ ^gus/*gus$ ^Duomisav/*Duomisav$?".
+[/5CZh_0gPiKjg]
+[6IdpD1gy9t4S#0] ^Manen/*Manen$ ^dahká/*dahká$ ^nav/*nav$? ^Ja/*Ja$ ^majt/*majt$ ^Duommá/*Duommá$ ^dahká/*dahká$ ^muora/muorra<n><pl><nom>/muorra<n><sg><gen>$ ^guoran/*guoran$?
+[/6IdpD1gy9t4S]
+[7qwZfZdhM64z#0] ^Vuojnáv/*Vuojnáv$ ^stuora/*stuora$ ^girjijt/girjje<n><pl><acc>$ ^ruoppsis/*ruoppsis$ ^goade/goahte<n><pl><nom>/goahte<n><sg><gen>$ ^duogen/*duogen$.
+[/7qwZfZdhM64z]
+[8SBFlK0nZxXJ#0] ^Sån/*Sån$ ^åhtså/*åhtså$ ^Duommáv/*Duommáv$: ^gåsi/*gåsi$ ^sån/*sån$ ^manáj/*manáj$? ^Vuojnni/vuojnnet<vblex><tv><indic><pres><p3><pl>/vuojnnet<vblex><tv><indic><pret><p2><sg>$ ^gus/*gus$ ^suv/*suv$?
+[/8SBFlK0nZxXJ]
+[C8vim-nGYG-S#0] ^Vuojnáv/*Vuojnáv$ ^stuora/*stuora$ ^girjijt/girjje<n><pl><acc>$ ^goade/goahte<n><pl><nom>/goahte<n><sg><gen>$ ^duogen/*duogen$.
+[/C8vim-nGYG-S]
+[CEH5yciMA24N#0] ^Le/*Le$ ^gus/*gus$ ^Maritin/*Maritin$ ^aj/*aj$ ^bena/bena<n><sg><nom>$? ^Ij/*Ij$, ^Maritin/*Maritin$ ^ij/*ij$ ^la/*la$ ^bena/bena<n><sg><nom>$, ^sujna/*sujna$ ^l/l<n><abbr><gram_tabbr><attr>/l<n><abbr><gram_tabbr><pl><nom>/l<n><abbr><gram_tabbr><sg><gen>/l<n><abbr><gram_tabbr><sg><nom>$ ^gáhtto/gáhtot<ex_vblex><iv><der_nomag><n><pl><nom>/gáhtot<ex_vblex><iv><der_nomag><n><sg><gen>/gáhtot<ex_vblex><iv><der_nomag><n><sg><nom>/gáhtot<vblex><iv><prsprc>/gáhtto<n><pl><nom>/gáhtto<n><sg><gen>/gáhtto<n><sg><nom>$.
+[/CEH5yciMA24N]
+[Cjwibi5f_oK8#0] ^Hæhttu/*Hæhttu$ ^liehket/*liehket$ ^Duommá/*Duommá$^!/!<clb>$
+[/Cjwibi5f_oK8]
+[DLpXFTApVfn7#0] ^Marit/*Marit$ ^vádtsá/vádtsát<vblex><iv><vgen>$ ^hihtásit/*hihtásit$ ^gárde/gárdde<n><pl><nom>/gárdde<n><sg><gen>$ ^tjadá/*tjadá$.
+[/DLpXFTApVfn7]
+[Ggp9P9c68DSX#0] ^Le/*Le$ ^buorre/*buorre$ ^dálkke/dálkke<n><sg><nom>$ ^uddni/*uddni$, ^la/*la$ ^huj/*huj$ ^liekkas/liekkas<adj><sg><nom>$.
+[/Ggp9P9c68DSX]
+[Hww_bn3eeY_i#0] ^Duommá/*Duommá$ ^jåhtelit/*jåhtelit$ ^viehká/*viehká$ ^stuora/*stuora$ ^boares/boares<adj><attr>/boares<adj><sg><nom>$ ^muora/muorra<n><pl><nom>/muorra<n><sg><gen>$ ^lusi/*lusi$, ^sån/*sån$ ^tjiehkát/tjiehká<n><sg><nom><px2sg>$ ^Maritis/*Maritis$.
+[/Hww_bn3eeY_i]
+[I2x9TEKAgNs5#0] ^Diedá/*Diedá$ ^gus/*gus$ ^manen/*manen$? ^Marit/*Marit$ ^tjåhkkåj/tjåhkkå<n><sg><ill>$ ^ja/*ja$ ^sujna/*sujna$ ^li/*li$ ^gieda/giehta<n><pl><nom>/giehta<n><sg><gen>$ ^tjalmij/tjalmme<n><pl><com>/tjalmme<n><pl><gen>$ ^åvdån/*åvdån$.
+[/I2x9TEKAgNs5]
+[IfiQnL4HXxRd#0] ^Sån/*Sån$ ^gæhttjá/*gæhttjá$ ^juohkka/*juohkka$ ^sajen/sadje<n><sg><ine>$, ^valla/*valla$ ^ij/*ij$ ^máhte/máhttet<vblex><tv><vgen>$ ^Duomisav/*Duomisav$ ^gávnnat/*gávnnat$.
+[/IfiQnL4HXxRd]
+[Kl5Vm5-ZQnOK#0] ^Valla/*Valla$ ^bena/bena<n><sg><nom>$ ^diedon/diehto<n><sg><ine>$ ^ij/*ij$ ^máhte/máhttet<vblex><tv><vgen>$ ^hållat/hållat<vblex><tv><inf>/hålla<n><sg><nom><px2sg>$^!/!<clb>$ ^Marit/*Marit$ ^ij/*ij$ ^oattjo/*oattjo$ ^vásstádusáv/vásstádus<n><sg><acc>$ ^gatjálvissaj/gatjálvis<n><sg><ill>$.
+[/Kl5Vm5-ZQnOK]
+[Ku-nHnEt7guK#0] ^Duommá/*Duommá$ ^ja/*ja$ ^Marit/*Marit$ ^libá/*libá$ ^gárden/gárdde<n><sg><ine>$.
+[/Ku-nHnEt7guK]
+[LEyoga2qKOGR#0] ^Valla/*Valla$ ^gáhtto l/gáhtot<ex_vblex><iv><der_nomag><n><pl><nom><cltl>/gáhtot<ex_vblex><iv><der_nomag><n><sg><gen><cltl>/gáhtot<ex_vblex><iv><der_nomag><n><sg><nom><cltl>/gáhtto<n><pl><nom><cltl>/gáhtto<n><sg><gen><cltl>/gáhtto<n><sg><nom><cltl>$ ^ståben/ståhpe<n><sg><ine>$, ^gáhtto/gáhtot<ex_vblex><iv><der_nomag><n><pl><nom>/gáhtot<ex_vblex><iv><der_nomag><n><sg><gen>/gáhtot<ex_vblex><iv><der_nomag><n><sg><nom>/gáhtot<vblex><iv><prsprc>/gáhtto<n><pl><nom>/gáhtto<n><sg><gen>/gáhtto<n><sg><nom>$ ^oadá/*oadá$.
+[/LEyoga2qKOGR]
+[NhmjSU_bN_iB#0] ^Dat/*Dat$ ^la/*la$ ^stoagos/stoagos<n><sg><nom>$.
+[/NhmjSU_bN_iB]
+[SW-nn0XY3egZ#0] "^Iv/IV<num><rom><sg><nom>$ ^Marit/*Marit$, ^iv/IV<num><rom><sg><nom>$ ^máhte/máhttet<vblex><tv><vgen>$ ^subtsastit/*subtsastit$ ^dunji/*dunji$^!/!<clb>$", ^sån/*sån$ ^vásstet/*vásstet$.
+[/SW-nn0XY3egZ]
+[TvvJw8-jH-6E#0] ^Vuojnáv/*Vuojnáv$ ^stuora/*stuora$ ^girjijt/girjje<n><pl><acc>$.
+[/TvvJw8-jH-6E]
+[Tz6hmt3JQRnA#0] ^Vuojnáv/*Vuojnáv$ ^stuora/*stuora$ ^girjev/girjje<n><sg><acc>$.
+[/Tz6hmt3JQRnA]
+[VizkGffGIbXD#0] ^Marit/*Marit$ ^ij/*ij$ ^diede/diehtet<vblex><tv><vgen>$ ^gånnå/*gånnå$ ^Duommá/*Duommá$ ^l./l<n><abbr><gram_tabbr><attr>/l<n><abbr><gram_tabbr><sg><acc>/l<n><abbr><gram_tabbr><sg><gen>/l<n><abbr><gram_tabbr><sg><nom>$
+[/VizkGffGIbXD]
+[WfnIzto84EKX#0] ^Aktak/*Aktak$ ^ij/*ij$ ^oattjo/*oattjo$ ^vásstádusáv/vásstádus<n><sg><acc>$, ^gå/*gå$ ^bednagij/bena<n><pl><com>/bena<n><pl><gen>/bena<n><sg><ill>$ ^hålli/*hålli$^!/!<clb>$
+[/WfnIzto84EKX]
+[XObHLCGjyAD_#0] ^Ij/*Ij$ ^majdik/*majdik$ ^vuojne/vuojnnet<vblex><tv><imp><conneg>/vuojnnet<vblex><tv><imp><p2><sg>/vuojnnet<vblex><tv><indic><conneg>/vuojnnet<vblex><tv><vgen>$ ^ja/*ja$ ^sån/*sån$ ^javllá/*javllá$.
+[/XObHLCGjyAD_]
+[_YcYE3WfKa8F#0] ^Marit/*Marit$ ^ájádallá/*ájádallá$, ^jut/*jut$ ^sån/*sån$ ^la/*la$ ^vuojnnám/vuojnnet<vblex><tv><prfprc>$ ^gåsi/*gåsi$ ^Duommá/*Duommá$ ^l/l<n><abbr><gram_tabbr><attr>/l<n><abbr><gram_tabbr><pl><nom>/l<n><abbr><gram_tabbr><sg><gen>/l<n><abbr><gram_tabbr><sg><nom>$ ^mannam/mannat<ex_vblex><iv><der_nomact><n><sg><nom>/mannat<vblex><iv><actio><nom>/mannat<vblex><iv><prfprc>$: "^Subtsasta/*Subtsasta$ ^munji/*munji$ ^gånnå/*gånnå$ ^sån/*sån$ ^la/*la$^!/!<clb>$", ^sån/*sån$ ^javllá/*javllá$ ^æddnásis/ieddne<n><sg><ill><px3sg>$.
+[/_YcYE3WfKa8F]
+[dBowB32b0DGA#0] ^Duommá/*Duommá$ ^l/l<n><abbr><gram_tabbr><attr>/l<n><abbr><gram_tabbr><pl><nom>/l<n><abbr><gram_tabbr><sg><gen>/l<n><abbr><gram_tabbr><sg><nom>$ ^unna/unne<adj><attr>$ ^báhtjasj/*báhtjasj$ ^ja/*ja$ ^sån/*sån$ ^la/*la$ ^gudá/*gudá$ ^jagák/*jagák$.
+[/dBowB32b0DGA]
+[dIEbIp9Wihqj#0] ^Gå/*Gå$ ^Marit/*Marit$ ^gærggá/*gærggá$ ^låhkåmis/låhkåt<ex_vblex><tv><der_nomact><n><sg><acc><px3sg>/låhkåt<ex_vblex><tv><der_nomact><n><sg><ela>/låhkåt<ex_vblex><tv><der_nomact><n><sg><gen><px3sg>/låhkåt<ex_vblex><tv><der_nomact><n><sg><nom><px3sg>$, ^sån/*sån$ ^gæhttjá/*gæhttjá$ ^ietjas/*ietjas$ ^birra/*birra$.
+[/dIEbIp9Wihqj]
+[dl3AmGMpWzb9#0] ^Vuojnnep/vuojnnet<vblex><tv><indic><pres><p1><pl>$ ^girjev/girjje<n><sg><acc>$.
+[/dl3AmGMpWzb9]
+[gPrvAQE1srBv#0] ^Vájku/*Vájku$ ^sån/*sån$ ^ihkap/*ihkap$ ^diehtá/*diehtá$ ^gånnå/*gånnå$ ^báhttja/*báhttja$ ^la/*la$, ^ij/*ij$ ^sidá/sihtat<vblex><tv><vgen>$ ^subtsastit/*subtsastit$.
+[/gPrvAQE1srBv]
+[h3-9CIErTsIn#0] ^Sunnu/*Sunnu$ ^ieddne l/ieddne<n><sg><nom><cltl>$ ^ståben/ståhpe<n><sg><ine>$ ^gáhtto/gáhtot<ex_vblex><iv><der_nomag><n><pl><nom>/gáhtot<ex_vblex><iv><der_nomag><n><sg><gen>/gáhtot<ex_vblex><iv><der_nomag><n><sg><nom>/gáhtot<vblex><iv><prsprc>/gáhtto<n><pl><nom>/gáhtto<n><sg><gen>/gáhtto<n><sg><nom>$ ^siegen/*siegen$, ^sån/*sån$ ^gæhttjá/*gæhttjá$ ^vinndegav/*vinndegav$ ^ålgus/*ålgus$ ^ja/*ja$ ^vuojnná/vuojnnet<vblex><tv><indic><pres><p3><sg>$ ^Duommá/*Duommá$ ^ja/*ja$ ^Marit/*Marit$ ^libá/*libá$ ^ståhkamin/ståhkat<ex_vblex><iv><der_nomact><n><ess>/ståhkat<ex_vblex><iv><der_nomact><n><sg><ine>/ståhkat<vblex><iv><actio><ess>$.
+[/h3-9CIErTsIn]
+[jRBe3Ks27s25#0] ^Valla/*Valla$ ^iektu/*iektu$ ^lij/*lij$ ^huj/*huj$ ^tjoaskes/tjoaskes<adj><attr>/tjoaskes<adj><sg><nom>$^!/!<clb>$ ^Ejga/*Ejga$ ^máhte/máhttet<vblex><tv><vgen>$ ^ståhkat/ståhkat<vblex><iv><inf>/ståhka<n><sg><nom><px2sg>$ ^ålggon/*ålggon$ ^dalloj/*dalloj$.
+[/jRBe3Ks27s25]
+[k7S6wvR1tb5e#0] ^Sån/*Sån$ ^gæhttjá/*gæhttjá$ ^bievde/bievdde<n><pl><nom>/bievdde<n><sg><gen>$ ^vuolen/*vuolen$ ^ja/*ja$ ^ståvlåj/ståvllå<n><pl><com>/ståvllå<n><pl><gen>$ ^vuolen/*vuolen$, ^valla/*valla$ ^Duommá/*Duommá$ ^ij/*ij$ ^la/*la$ ^dieppe/*dieppe$.
+[/k7S6wvR1tb5e]
+[kwKFaodsNogv#0] ^Sån/*Sån$ ^ájn/*ájn$ ^gæhttjalit/*gæhttjalit$ ^Duomisav/*Duomisav$ ^åhtsåt/åhtsåt<vblex><tv><inf>$.
+[/kwKFaodsNogv]
+[nk32D9V8gQAw#0] ^Dálla/*Dálla$ ^sån/*sån$ ^gullá/*gullá$ ^dav/*dav$ ^buoragit/*buoragit$.
+[/nk32D9V8gQAw]
+[qgyd6qGiVd0z#0] ^Vuojnni/vuojnnet<vblex><tv><indic><pres><p3><pl>/vuojnnet<vblex><tv><indic><pret><p2><sg>$ ^girjev/girjje<n><sg><acc>$.
+[/qgyd6qGiVd0z]
+[tZoJWmCd_1o_#0] ^Bena/bena<n><sg><nom>$ ^lijkku/lijkkut<vblex><tv><vgen>$ ^ståhkat/ståhkat<vblex><iv><inf>/ståhka<n><sg><nom><px2sg>$ ^dajna/*dajna$ ^guovtijn/*guovtijn$ ^mánájn/mánná<n><pl><ine>/mánná<n><sg><com>$.
+[/tZoJWmCd_1o_]
+[tiz0Jo2iJfCv#0] ^Unna/unne<adj><attr>$ ^nejtsusj la/nejtsusj<n><sg><nom><cltl>/næjttso<ex_n><der_dimin><n><sg><nom><cltl>$ ^suv/*suv$ ^oappásj/oabbá<ex_n><der_dimin><n><sg><nom>/oappásj<n><sg><nom>$, ^sån/*sån$ ^la/*la$ ^vidá/*vidá$ ^jagák/*jagák$.
+[/tiz0Jo2iJfCv]
+[uksRfzth6VJb#0] ^Vuojnáv/*Vuojnáv$ ^girjev/girjje<n><sg><acc>$.
+[/uksRfzth6VJb]
+[ut4tXmXaOnQo#0] ^Máhtáluluj/*Máhtáluluj$ ^gus/*gus$ ^liehket/*liehket$ ^Duommá/*Duommá$? ^Dannák/*Dannák$ ^dat/*dat$ ^jiedna l/jiedna<n><sg><nom><cltl>$ ^vas/*vas$^!/!<clb>$ ^Sån/*Sån$ ^dárkkelit/*dárkkelit$ ^gulldalit/*gulldalit$.
+[/ut4tXmXaOnQo]
+[yCmzXzgXooq1#0] ^Bena l/bena<n><sg><nom><cltl>$ ^huj/*huj$ ^ávon/ávvo<n><sg><ine>$ ^dálla/*dálla$.
+[/yCmzXzgXooq1]
+[yLLO_Y8NOsTl#0] ^GÅNNÅ/*GÅNNÅ$ ^L/L<num><rom><sg><nom>/l<n><abbr><gram_tabbr><attr>/l<n><abbr><gram_tabbr><pl><nom>/l<n><abbr><gram_tabbr><sg><gen>/l<n><abbr><gram_tabbr><sg><nom>$ ^DUOMMÁ/*DUOMMÁ$?
+[/yLLO_Y8NOsTl]
+[zfeB5hXhzgNc#0] ^Duomisin/*Duomisin$ ^la/*la$ ^unna/unne<adj><attr>$ ^bednagasj/bena<ex_n><der_dimin><n><sg><nom>$, ^dat/*dat$ ^la/*la$ ^aj/*aj$ ^gárden/gárdde<n><sg><ine>$ ^dálla/*dálla$.
+[/zfeB5hXhzgNc]
