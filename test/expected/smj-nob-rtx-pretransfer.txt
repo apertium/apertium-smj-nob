@@ -1,0 +1,98 @@
+[--Jf4vZvr_ye#0] ^*Såj$ ^*goappátjagá$ ^*libá$ ^ávvo<n><sg><ine><@HNOUN>$ ^*ja$ ^*mannaba$ ^ståhpe<n><sg><ill><@←ADVL>$, ^*la$ ^*muddo$ ^*juojddá$ ^*bårråt$ ^*ja$ ^*vehi$ ^*tjátjev$ ^*juhkat$^!<clb>$
+[/--Jf4vZvr_ye]
+[0_4JAoG6L__L#0] ^*Marit$ ^*tjajmmá$ ^*ja$ ^*javllá$: "^*Gávnniv$ ^*duv$^!<clb>$".
+[/0_4JAoG6L__L]
+[0zgkcjgRm7pk#0] ^Vuojnnet<vblex><tv><indic><pres><p2><sg><@+FMAINV>$ ^girjje<n><sg><acc><@←OBJ>$.
+[/0zgkcjgRm7pk]
+[1RrnT9EuJHGn#0] ^*Marit$ ^*gæhttjá$ ^ieddne<n><sg><ela><@ADVL→>$ ^glássa<n><pl><nom><@HNOUN>$ ^*duogen$, ^ieddne<n><sg><nom><px3sg><@HNOUN>$ ^*tjajmmá$.
+[/1RrnT9EuJHGn]
+[23xEDFbmNagz#0] ^*Ij$ ^*la$ ^lådde<n><sg><nom><@HNOUN>$ ^*ij$ ^*makkirak$ ^*ietjá$ ^*judos$.
+[/23xEDFbmNagz]
+[3gsPqKKORKL5#0] ^Vuojnnet<vblex><tv><indic><pres><p2><pl><@+FMAINV>$ ^girjje<n><sg><acc><@←OBJ>$.
+[/3gsPqKKORKL5]
+[3j8W86jVUsTv#0] ^*De$ ^*sån$ ^vuojnnet<vblex><tv><indic><pres><p3><sg><@+FMAINV>$ ^unne<adj><attr><@→N>$ ^giehta<n><der_dimin><n><sg><acc><@←OBJ>$ ^*aj$ ^*ja$ ^*gå$ ^*sån$ ^*lagábuj$ ^*boahtá$, ^*de$ ^*sån$ ^vuojnnet<vblex><tv><indic><pres><p3><sg><@+FMAINV>$ ^*suv$ ^oajvve<n><sg><acc><@←OBJ>$ ^*aj$^!<clb>$
+[/3j8W86jVUsTv]
+[4Y-4NSaqg2lP#0] ^*De$ ^*sån$ ^*gullá$ ^jiedna<n><sg><acc><@OBJ→>$, ^*dat$ ^*boahtá$ ^*stuora$ ^boares<adj><attr><@→N>$ ^muorra<n><pl><nom><@HNOUN>$ ^*duogen$.
+[/4Y-4NSaqg2lP]
+[4Y-bseVjsUxi#0] ^*Duommá$ ^*ja$ ^*Marit$ ^*lijkkuba$ ^ståhkat<vblex><iv><inf><@-FMAINV>$, ^*såj$ ^ahke<n><sg><acc><@←OBJ>$ ^*ståhkaba$ ^*aktan$ ^gárdde<n><sg><ine><@←ADVL>$ ^*stuora$ ^ståhpe<n><pl><nom><@←SUBJ>$ ^*ålggolin$.
+[/4Y-bseVjsUxi]
+[5CZh_0gPiKjg#0] ^*Sån$ ^*gatját$ ^bena<n><sg><acc><px3sg><@OBJ→>$: "^Vuojnnet<vblex><tv><indic><pres><p3><pl><@+FMAINV>$ ^*gus$ ^*Duomisav$?".
+[/5CZh_0gPiKjg]
+[6IdpD1gy9t4S#0] ^*Manen$ ^*dahká$ ^*nav$? ^*Ja$ ^*majt$ ^*Duommá$ ^*dahká$ ^muorra<n><pl><nom><@HNOUN>$ ^*guoran$?
+[/6IdpD1gy9t4S]
+[7qwZfZdhM64z#0] ^*Vuojnáv$ ^*stuora$ ^girjje<n><pl><acc><@OBJ→>$ ^*ruoppsis$ ^goahte<n><pl><nom><@HNOUN>$ ^*duogen$.
+[/7qwZfZdhM64z]
+[8SBFlK0nZxXJ#0] ^*Sån$ ^*åhtså$ ^*Duommáv$: ^*gåsi$ ^*sån$ ^*manáj$? ^Vuojnnet<vblex><tv><indic><pres><p3><pl><@+FMAINV>$ ^*gus$ ^*suv$?
+[/8SBFlK0nZxXJ]
+[C8vim-nGYG-S#0] ^*Vuojnáv$ ^*stuora$ ^girjje<n><pl><acc><@OBJ→>$ ^goahte<n><pl><nom><@HNOUN>$ ^*duogen$.
+[/C8vim-nGYG-S]
+[CEH5yciMA24N#0] ^*Le$ ^*gus$ ^*Maritin$ ^*aj$ ^bena<n><sg><nom><@X>$? ^*Ij$, ^*Maritin$ ^*ij$ ^*la$ ^bena<n><sg><nom><@X>$, ^*sujna$ ^l<n><abbr><gram_tabbr><sg><gen><@→N>$ ^gáhtot<vblex><iv><prsprc><@X>$.
+[/CEH5yciMA24N]
+[Cjwibi5f_oK8#0] ^*Hæhttu$ ^*liehket$ ^*Duommá$^!<clb>$
+[/Cjwibi5f_oK8]
+[DLpXFTApVfn7#0] ^*Marit$ ^vádtsát<vblex><iv><vgen><@X>$ ^*hihtásit$ ^gárdde<n><pl><nom><@X>$ ^*tjadá$.
+[/DLpXFTApVfn7]
+[Ggp9P9c68DSX#0] ^*Le$ ^*buorre$ ^dálkke<n><sg><nom><@HNOUN>$ ^*uddni$, ^*la$ ^*huj$ ^liekkas<adj><sg><nom><@←SPRED>$.
+[/Ggp9P9c68DSX]
+[Hww_bn3eeY_i#0] ^*Duommá$ ^*jåhtelit$ ^*viehká$ ^*stuora$ ^boares<adj><attr><@→N>$ ^muorra<n><pl><nom><@HNOUN>$ ^*lusi$, ^*sån$ ^tjiehká<n><sg><nom><px2sg><@HNOUN>$ ^*Maritis$.
+[/Hww_bn3eeY_i]
+[I2x9TEKAgNs5#0] ^*Diedá$ ^*gus$ ^*manen$? ^*Marit$ ^tjåhkkå<n><sg><ill><@←ADVL>$ ^*ja$ ^*sujna$ ^*li$ ^giehta<n><pl><nom><@HNOUN>$ ^tjalmme<n><pl><com><@←ADVL>$ ^*åvdån$.
+[/I2x9TEKAgNs5]
+[IfiQnL4HXxRd#0] ^*Sån$ ^*gæhttjá$ ^*juohkka$ ^sadje<n><sg><ine><@X>$, ^*valla$ ^*ij$ ^máhttet<vblex><tv><vgen><@X>$ ^*Duomisav$ ^*gávnnat$.
+[/IfiQnL4HXxRd]
+[Kl5Vm5-ZQnOK#0] ^*Valla$ ^bena<n><sg><nom><@SUBJ→>$ ^diehto<n><sg><ine><@ADVL→>$ ^*ij$ ^máhttet<vblex><tv><vgen><@X>$ ^hållat<vblex><tv><inf><@-FMAINV>$^!<clb>$ ^*Marit$ ^*ij$ ^*oattjo$ ^vásstádus<n><sg><acc><@HNOUN>$ ^gatjálvis<n><sg><ill><@←ADVL>$.
+[/Kl5Vm5-ZQnOK]
+[Ku-nHnEt7guK#0] ^*Duommá$ ^*ja$ ^*Marit$ ^*libá$ ^gárdde<n><sg><ine><@HNOUN>$.
+[/Ku-nHnEt7guK]
+[LEyoga2qKOGR#0] ^*Valla$ ^gáhtto<n><sg><gen><cltl><@→N>$ ^ståhpe<n><sg><ine><@ADVL→>$, ^gáhtot<vblex><iv><prsprc><@X>$ ^*oadá$.
+[/LEyoga2qKOGR]
+[NhmjSU_bN_iB#0] ^*Dat$ ^*la$ ^stoagos<n><sg><nom><@HNOUN>$.
+[/NhmjSU_bN_iB]
+[SW-nn0XY3egZ#0] "^IV<num><rom><sg><nom><@X>$ ^*Marit$, ^IV<num><rom><sg><nom><@X>$ ^máhttet<vblex><tv><vgen><@X>$ ^*subtsastit$ ^*dunji$^!<clb>$", ^*sån$ ^*vásstet$.
+[/SW-nn0XY3egZ]
+[TvvJw8-jH-6E#0] ^*Vuojnáv$ ^*stuora$ ^girjje<n><pl><acc><@HNOUN>$.
+[/TvvJw8-jH-6E]
+[Tz6hmt3JQRnA#0] ^*Vuojnáv$ ^*stuora$ ^girjje<n><sg><acc><@HNOUN>$.
+[/Tz6hmt3JQRnA]
+[VizkGffGIbXD#0] ^*Marit$ ^*ij$ ^diehtet<vblex><tv><vgen><@X>$ ^*gånnå$ ^*Duommá$ ^l<n><abbr><gram_tabbr><sg><acc><@X>$
+[/VizkGffGIbXD]
+[WfnIzto84EKX#0] ^*Aktak$ ^*ij$ ^*oattjo$ ^vásstádus<n><sg><acc><@HNOUN>$, ^*gå$ ^bena<n><pl><com><@←ADVL>$ ^*hålli$^!<clb>$
+[/WfnIzto84EKX]
+[XObHLCGjyAD_#0] ^*Ij$ ^*majdik$ ^vuojnnet<vblex><tv><imp><p2><sg><@+FMAINV>$ ^*ja$ ^*sån$ ^*javllá$.
+[/XObHLCGjyAD_]
+[_YcYE3WfKa8F#0] ^*Marit$ ^*ájádallá$, ^*jut$ ^*sån$ ^*la$ ^vuojnnet<vblex><tv><prfprc><@-FMAINV>$ ^*gåsi$ ^*Duommá$ ^l<n><abbr><gram_tabbr><pl><nom><@←SUBJ>$ ^mannat<vblex><iv><der_nomact><n><sg><nom><@←SUBJ>$: "^*Subtsasta$ ^*munji$ ^*gånnå$ ^*sån$ ^*la$^!<clb>$", ^*sån$ ^*javllá$ ^ieddne<n><sg><ill><px3sg><@←ADVL>$.
+[/_YcYE3WfKa8F]
+[dBowB32b0DGA#0] ^*Duommá$ ^l<n><abbr><gram_tabbr><pl><nom><@HNOUN>$ ^unne<adj><attr><@X>$ ^*báhtjasj$ ^*ja$ ^*sån$ ^*la$ ^*gudá$ ^*jagák$.
+[/dBowB32b0DGA]
+[dIEbIp9Wihqj#0] ^*Gå$ ^*Marit$ ^*gærggá$ ^låhkåt<vblex><tv><der_nomact><n><sg><ela><@HNOUN>$, ^*sån$ ^*gæhttjá$ ^*ietjas$ ^*birra$.
+[/dIEbIp9Wihqj]
+[dl3AmGMpWzb9#0] ^Vuojnnet<vblex><tv><indic><pres><p1><pl><@+FMAINV>$ ^girjje<n><sg><acc><@←OBJ>$.
+[/dl3AmGMpWzb9]
+[gPrvAQE1srBv#0] ^*Vájku$ ^*sån$ ^*ihkap$ ^*diehtá$ ^*gånnå$ ^*báhttja$ ^*la$, ^*ij$ ^sihtat<vblex><tv><vgen><@X>$ ^*subtsastit$.
+[/gPrvAQE1srBv]
+[h3-9CIErTsIn#0] ^*Sunnu$ ^ieddne<n><sg><nom><cltl><@SUBJ→>$ ^ståhpe<n><sg><ine><@ADVL→>$ ^gáhtot<vblex><iv><prsprc><@X>$ ^*siegen$, ^*sån$ ^*gæhttjá$ ^*vinndegav$ ^*ålgus$ ^*ja$ ^vuojnnet<vblex><tv><indic><pres><p3><sg><@+FMAINV>$ ^*Duommá$ ^*ja$ ^*Marit$ ^*libá$ ^ståhkat<vblex><iv><actio><ess><@-FMAINV>$.
+[/h3-9CIErTsIn]
+[jRBe3Ks27s25#0] ^*Valla$ ^*iektu$ ^*lij$ ^*huj$ ^tjoaskes<adj><sg><nom><@HNOUN>$^!<clb>$ ^*Ejga$ ^máhttet<vblex><tv><vgen><@X>$ ^ståhkat<vblex><iv><inf><@-FMAINV>$ ^*ålggon$ ^*dalloj$.
+[/jRBe3Ks27s25]
+[k7S6wvR1tb5e#0] ^*Sån$ ^*gæhttjá$ ^bievdde<n><pl><nom><@HNOUN>$ ^*vuolen$ ^*ja$ ^ståvllå<n><pl><com><@←ADVL>$ ^*vuolen$, ^*valla$ ^*Duommá$ ^*ij$ ^*la$ ^*dieppe$.
+[/k7S6wvR1tb5e]
+[kwKFaodsNogv#0] ^*Sån$ ^*ájn$ ^*gæhttjalit$ ^*Duomisav$ ^åhtsåt<vblex><tv><inf><@-FMAINV>$.
+[/kwKFaodsNogv]
+[nk32D9V8gQAw#0] ^*Dálla$ ^*sån$ ^*gullá$ ^*dav$ ^*buoragit$.
+[/nk32D9V8gQAw]
+[qgyd6qGiVd0z#0] ^Vuojnnet<vblex><tv><indic><pres><p3><pl><@+FMAINV>$ ^girjje<n><sg><acc><@←OBJ>$.
+[/qgyd6qGiVd0z]
+[tZoJWmCd_1o_#0] ^Bena<n><sg><nom><@SUBJ→>$ ^lijkkut<vblex><tv><vgen><@X>$ ^ståhkat<vblex><iv><inf><@-FMAINV>$ ^*dajna$ ^*guovtijn$ ^mánná<n><pl><ine><@←ADVL>$.
+[/tZoJWmCd_1o_]
+[tiz0Jo2iJfCv#0] ^Unne<adj><attr><@→N>$ ^nejtsusj<n><sg><nom><cltl><@HNOUN>$ ^*suv$ ^oappásj<n><sg><nom><@HNOUN>$, ^*sån$ ^*la$ ^*vidá$ ^*jagák$.
+[/tiz0Jo2iJfCv]
+[uksRfzth6VJb#0] ^*Vuojnáv$ ^girjje<n><sg><acc><@HNOUN>$.
+[/uksRfzth6VJb]
+[ut4tXmXaOnQo#0] ^*Máhtáluluj$ ^*gus$ ^*liehket$ ^*Duommá$? ^*Dannák$ ^*dat$ ^jiedna<n><sg><nom><cltl><@HNOUN>$ ^*vas$^!<clb>$ ^*Sån$ ^*dárkkelit$ ^*gulldalit$.
+[/ut4tXmXaOnQo]
+[yCmzXzgXooq1#0] ^Bena<n><sg><nom><cltl><@HNOUN>$ ^*huj$ ^ávvo<n><sg><ine><@←ADVL>$ ^*dálla$.
+[/yCmzXzgXooq1]
+[yLLO_Y8NOsTl#0] ^*GÅNNÅ$ ^L<num><rom><sg><nom><@HNOUN>$ ^*DUOMMÁ$?
+[/yLLO_Y8NOsTl]
+[zfeB5hXhzgNc#0] ^*Duomisin$ ^*la$ ^unne<adj><attr><@→N>$ ^bena<n><der_dimin><n><sg><nom><@HNOUN>$, ^*dat$ ^*la$ ^*aj$ ^gárdde<n><sg><ine><@←ADVL>$ ^*dálla$.
+[/zfeB5hXhzgNc]
