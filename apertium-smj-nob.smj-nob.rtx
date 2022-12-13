@@ -39,7 +39,11 @@ has_adj = yes no ;
 maybe_det: (if (1.definite = def and 1.number = sg and 1.has_adj = yes)
                [ den@det.dem.[1.gender].sg _ ]
             elif (1.definite = ind and 1.number = sg)
-               [ en@det.qnt.[1.gender].sg _ ]) ;
+               [ en@det.qnt.[1.gender].sg _ ]
+            else
+              []
+            ) ;
+
 
 NP -> n [$definite=ind]
       {
