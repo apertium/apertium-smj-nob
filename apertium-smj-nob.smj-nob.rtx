@@ -48,9 +48,16 @@ pro_undrop: (
               if (1.number = sg)
                 (
                   if(1.person = p1) [jeg@{1.lemcase}.prn.pers.p1.mf.sg.nom _]
-                  else [den@prn.pers.p3.nt.sg.nom _]
+                  if(1.person = p2) [du@{1.lemcase}.prn.pers.p2.mf.sg.nom _]
+                  else [den@{1.lemcase}.prn.pers.p3.nt.sg.nom _]
                 )
-              else [den@prn.pers.p3.nt.sg.nom _]
+              elif (1.number = pl)
+                (
+                  if(1.person = p1) [vi@{1.lemcase}.prn.pers.p1.un.pl.nom _]
+                  if(1.person = p2) [dere@{1.lemcase}.prn.pers.p2.un.pl.nom _]
+                  else [de@{1.lemcase}.prn.pers.p3.un.pl.nom _]
+                )
+              else [disse@{1.lemcase}.prn.pers.p3.nt.sg.nom _]
             ) ;
 
 NP -> n [$definite=ind]
