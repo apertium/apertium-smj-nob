@@ -43,8 +43,8 @@ AP_CHECK_LING([2], [apertium-nob])
 
 PKG_CHECK_MODULES(REGTEST, apertium-regtest >= 0.0.1, [],
                   [AC_MSG_WARN([Running tests requires apertium-regtest])])
+PKG_CHECK_MODULES(APERTIUM_RECURSIVE, apertium-recursive >= 1.1.2)
 
 AP_MKINCLUDE
 
 AC_OUTPUT([Makefile])
-
