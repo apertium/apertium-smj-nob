@@ -44,6 +44,14 @@ maybe_det: (if (1.definite = def and 1.number = sg and 1.has_adj = yes)
               []
             ) ;
 
+pro_undrop: (
+              if (1.number = sg)
+                (
+                  if(1.person = p1) [jeg@{1.lemcase}.prn.pers.p1.mf.sg.nom _]
+                  else [den@prn.pers.p3.nt.sg.nom _]
+                )
+              else [den@prn.pers.p3.nt.sg.nom _]
+            ) ;
 
 NP -> n [$definite=ind]
       {
