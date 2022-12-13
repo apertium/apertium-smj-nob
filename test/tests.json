@@ -7,10 +7,6 @@
         "input": "smj-nob-rtx-input.txt",
         "mode": "smj-nob_rtx"
     },
-    "smj-nob-rtx-tree": {
-        "input": "smj-nob-rtx-input.txt",
-        "mode": "smj-nob_rtx-tree"
-    },
     "settings": {
         "structure": "nested"
     }
