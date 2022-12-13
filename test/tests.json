@@ -2,5 +2,16 @@
     "sjm-nob": {
         "input": "smj-nob-input.txt",
         "mode": "smj-nob"
+    },
+    "smj-nob-rtx": {
+        "input": "smj-nob-rtx-input.txt",
+        "mode": "smj-nob_rtx"
+    },
+    "smj-nob-rtx-tree": {
+        "input": "smj-nob-rtx-input.txt",
+        "mode": "smj-nob_rtx-tree"
+    },
+    "settings": {
+        "structure": "nested"
     }
 }
